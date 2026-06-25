@@ -1,0 +1,11 @@
+data/sample_candidates.json
+data/candidate_schema.json
+data/candidates.jsonl
+data/redrob_signals_doc.docx
+data/README.docx
+data/sample_submission.csv
+models/embeddings.pkl
+outputs/final_submission.csv
+data/submission_spec.docx
+data/submission_metadata_template.yaml
+data/job_description.docx
